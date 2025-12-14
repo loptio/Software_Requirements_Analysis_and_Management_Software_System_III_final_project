@@ -18,4 +18,13 @@
 - 上方按鈕說明： `open` 開啟圖片，`save` 儲存圖片，`apply` 固化到原圖，`undo` 回退，`revert` 重設到原始圖片
 - 塗鴉模式下：在頂部調整畫筆與顏色，在圖片上點擊或拖曳繪製
 
-![GUI 截圖](image/screenshot/screenshot.png "GUI 截圖")
+![GUI_screenshot](image/screenshot/screenshot.png "GUI screenshot")
+
+![use_case_diagram](image/diagram/usecase_diagram.png "GUI use case diagram")
+
+![class_diagram](image/diagram/class_diagram.png "GUI class diagram")
+![general_sequence_diagram](image/diagram/sequence_diagram-1.svg "GUI general sequence diagram")
+![median_sequence_diagram](image/diagram/sequence_diagram-2.svg "GUI median sequence diagram")
+![laplacian_sequence_diagram](image/diagram/sequence_diagram-3.svg "GUI laplacian sequence diagram")
+![sharpen_sequence_diagram](image/diagram/sequence_diagram-4.svg "GUI sharpen sequence diagram")
+![doodle_sequence_diagram](image/diagram/sequence_diagram-5.svg "GUI doodle sequence diagram")
