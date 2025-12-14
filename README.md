@@ -18,9 +18,4 @@
 - 上方按鈕說明： `open` 開啟圖片，`save` 儲存圖片，`apply` 固化到原圖，`undo` 回退，`revert` 重設到原始圖片
 - 塗鴉模式下：在頂部調整畫筆與顏色，在圖片上點擊或拖曳繪製
 
-
-說明：
-- 調色盤量化預設走 `fallback`，不需要安裝 `scikit-learn`；如需 KMeans 效果，可自行安裝並修改為非 fallback。
-- 拉普拉斯相關功能需 `scipy.ndimage`；若未安裝會提示。
-GUI 截圖：
-![GUI 截圖](image/screenshot/截屏2025-12-15 凌晨12.08.19.png)
+![GUI 截圖](image/screenshot/screenshot.png "GUI 截圖")
